@@ -1,5 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DaCodingBeast&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
+
+
 ## 🚀 About Me
 - 🔭 I’m currently working on **[Your Cool Project](#)**.
 - 🌱 I’m currently learning **[Topic/Technology]**.
