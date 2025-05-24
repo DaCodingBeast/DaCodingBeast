@@ -1,7 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaCodingBeast&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaCodingBeast&layout=compact&theme=radical)
 
 ---
