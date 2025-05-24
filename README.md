@@ -13,8 +13,3 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
-
-## 🔥 Fun Widgets
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaCodingBeast&theme=radical)
-
-🕰️ **Coding Time Stats** (powered by WakaTime)
